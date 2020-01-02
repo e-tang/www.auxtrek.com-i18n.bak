@@ -1,0 +1,221 @@
+langcode: en
+langs:
+  en: EN
+  zh: 中文
+menu:
+  livesupport: Live Support
+  webtrader: Webtrader
+  start-trade: Start Trade
+  open-demo: Open Demo
+  contact-us: Contact Us
+  free-demo: Free Demo
+
+account:
+  sign-up: Sign Up
+  practice: Start practising trading until you get ready.
+  sign-up-now: Sign up now!
+
+  password: Password
+  confirm-password: Confirm Password
+  phone-number: Phone Number
+  first-name: First Name
+  last-name: Last Name
+  email: Email   
+
+pages:
+  introduction: Introduction
+  trading: Trading 
+  platform: Platform
+  partnership: Partnership
+  education: Education
+  promotion: Promotion
+  
+introduction:  
+  about: About Auxtrek
+
+  about-us: About Us
+  about-us-p1: We come from traders we understand your need and want. AUXTREK established in 2015 with expert traders. We understand most traders want to a great 24 hours service and tight spread. When you trade you are seek for fast execution time and small slippage, this is want we could do.
+  about-us-p2: If you are serious about trading and looking for a broker to trade through please consider us as your partner - our team would love to help you out. We will always make ourselves personally available to our clients.
+  about-us-p3: We assist traders using Forex as an asset class to fulfill part of their trading portfolio. Our trading platform gives you access to the latest market data and we deliver exceptional client support. Our pricing and liquidity is sourced from multiple destinations in Forex markets. To become a successful company, we have to continue improve our service performance and trading technology and liquidity. 
+
+  what-can-we-trade: What can we trade
+  what-can-we-trade-p1: The Forex markets provides traders 24 hours and 5days a week.The traders could take advantage of tight spread, fast execution and deep liquidity.
+  what-can-we-trade-p2: With ourplatform, you could access to the globally products such as the major share indices, crude oils and metals.
+  what-can-we-trade-p3: With on stop MT4 Platform, trade Cryptos with double directions with 24hour and 5days per week.
+
+  our-liquidity-provider: Our Liquidity Provider
+  our-liquidity-provider-p1: Our specialty lies in building customised liquidity, sourced from tier 1 and regional banks, non-banks, ECN’s and our own proprietary algorithms.
+  our-liquidity-provider-p2: Access leading-edge Prime Broker services, backed by two Tier-1 Prime Brokers. Connect to deep institutional liquidity sourced from more than 25+ tier 1 banks, non-banks and ECN liquidity providers such as Fastmatch, LMAX, Currenex, Gain GTX, Hotspot. 
+  
+  safety: Safety
+  safety-p1: At AUXTREK, security funds is our main focus. As our companies are regulated worldwide, in accordance with the regulations we need to uphold strict rules and obligations, offering our clients the highest level of funds security. Our clients can rest assured that their funds are highly secured as AUXTREK  complies with wide ranging security of funds requirements.
+
+  regulation: Regulation
+  regulation-1: Auxtrek St Vincent.
+  regulation-1-p1:  .
+  regulation-2: Auxtrek Malaysia
+  regulation-2-p1:  .
+
+trading:
+  demo-account: Demo Account
+  live-account: Live Account
+  pricing: Pricing
+  swap: Swap
+  spreads: Spreads
+  indices: Indices
+  stocks: Stocks
+  forex: Forex
+  cryptocurrency: Cryptocurrency
+  energies-and-metals: Energies and Metals
+
+  funding: Funding
+
+  withdraw: Withdraw
+  withdraw-p1: For faster processing all account holders are now required to submit withdrawal requests from inside their Secure Client Area.
+  withdraw-form: Withdrawal Form
+  withdraw-note: If you have not made a withdrawal in the past, please note
+
+  product: Product
+  product-forex: The Forex market provides traders the opportunity to trade 24 hours a day, 5 days a week in the world’s most liquid financial market. Traders can take advantage of the tightest spreads, superior execution, and deep interbank liquidity across 60 currency pairs.
+  product-e-n-m: Trade energies, agriculture and metals products like a currency pair against the USD or as a Futures CFD. We’ve combined tight pricing and flexible lot sizes from 10c per point to give you one powerful product.
+  product-indices: Participate in the world's largest stock market with trading index CFDs. We offer 16 indices with spreads lower to 0.5 pips. Traders can take a more comprehensive view of global stock markets while enjoying 0 commissions and 24 hours cross-market trading.
+  product-stocks: Access over 100 large-cap Stocks CFDs across NYSE and NASDAQ stock exchanges. We’ve selected a range of the world’s most popular companies to give you the best trading opportunities.
+  product-cryptocurrency: Cryptos are known for rapid price movements. They’re a high-volatility instrument, gaining in value as they reach greater adoption and falling on news of possible government regulation and security concerns. The major benefit of trading crypto CFDs (Contract for Difference) against the US dollar is that traders can potentially profit from an instrument’s drop in value, as well as a rise.
+
+  margin-leverage: Margin and Leverage
+  currency-pairs: Currency Pairs
+  swap-rates: Swap Rates
+
+  trading-conditions: Trading Conditions
+  trading-conditions-p1: Our spreads are market leading with prices streaming from over 25 different  sources of pricing at the highest speed, which means you will always be trading on the best available price. Spreads can go as low as 0.0 pips on our MetaTrader 4 platforms.
+  trading-conditions-p2: By offering leverage up to 1:500 we open the path to the forex market for Retail traders. Using leverage means only a small initial outlay (margin) is required. The use of leverage can magnify gains but losses can also exceed your initial deposit.
+  trading-conditions-p3: Auxtrek streams prices on 60 different currency pairs and 4 metals on all 3 trading platforms. IC Markets is able to offer some of the best pricing in the industry by aggregating quotes from over 25 different pricing sources. This low pricing combined with unrivalled execution speeds makes IC Markets the favoured destination for day traders, scalpers and those using Expert Advisors (EAs).
+  trading-conditions-p4: We offer long and short swap rates for all of our currency pairs and metals. Swap rates are determined by the overnight interest rate differential between the two currencies involved in the pair and whether the position is a buy ‘long’ or sell ‘short’.
+  trading-conditions-learn-swap: Learn more details for Swap Rates
+  trading-conditions-learn-spreads: Learn more details for Spreads
+  trading-conditions-learn-margin: Learn more details for Margin and Leverage
+  trading-conditions-learn-pairs: Learn more details for Currency Pairs
+
+  funding-p1: You can fund your trading account instantly using a   variety of secure payment options. All our client funds are held in separate bank accounts with the world’s top tier one banks. Please choose a payment option to fund your trading account from the list below.
+
+  myfxbook-autotrade: Myfxbook Autotrade
+  myfxbook-autotrade-p1: Automated social trade copying service allowing traders to subscribe and copy other trading systems directly into a Global Prime trading account.
+  myfxbook-autotrade-p2: Autotrade allows you to view and compare over 40 different systems and their track record. Systems are ranked based on the lowest risk with the highest profit vs consistent growth offering one of the largest selections of financial indicators and statistics compared to other social trading platforms.
+  myfxbook-autotrade-q1: What makes Myfxbook AutoTrade a great tool for copy trading?
+  myfxbook-autotrade-q1-list1: Systems selected fulfil a rigorous screen processing, satisfying the below requirements. 
+  myfxbook-autotrade-q1-list1-l1: Must trade from a MetaTrader 4 account with real money (No demo accounts).
+  myfxbook-autotrade-q1-list1-l2: Connected to Myfxbook for at least 3 months and executed at least 100 trades.
+  myfxbook-autotrade-q1-list1-l3: Minimum account balance of $1,000.
+  myfxbook-autotrade-q1-list1-l4: Historical drawdown must be less than 50%.
+  myfxbook-autotrade-q1-list1-l5: Average trade time must be more than 5 minutes.
+  myfxbook-autotrade-q1-list1-l6: Average pip win per trade must be at least 10 pips.
+  myfxbook-autotrade-q1-list1-l7: Historical drawdown must be less than 50%.
+  myfxbook-autotrade-q1-list1-l8: Historical return on account must be higher than 10% and higher than the maximum drawdown.
+  myfxbook-autotrade-q1-list1-l9: Does not allow systems that use martingale/grid techniques    
+  myfxbook-autotrade-q1-list2: Systems provide accurate statistics on performance, drawdown over a certain amount of time, best and worst trades, average trade duration, Sharpe ratio, standard deviation, profit factor and much more.
+  myfxbook-autotrade-q1-list3: Instantaneously trade mirroring from signal provider
+  myfxbook-autotrade-q1-list4: No software needed – AutoTrade is hosted on internally managed servers
+  myfxbook-autotrade-start-autotrade: Start Myfxbook AutoTrade
+  myfxbook-autotrade-start-autotrade-l1: Open a funded Auxtrek account
+  myfxbook-autotrade-start-autotrade-l2: Link you Auxtrek account to Myfxbook AutoTrade                 
+  trading-hours: Trading Hours
+  trading-hours-p1: We make it easy to know when the markets are open for trading. See at a glance all the trading hours for our broad range of products. Trading hours can also be viewed from within the MetaTrader trading terminals.
+  trading-hours-learn-more: Learn more details for 
+
+platform:
+  mt4: MetaTrader 4
+  mt4-title: MetaTrader 4 Trading Platform
+  mt4-subtitle: A popular Forex trading application
+  mt4-p1: The MetaTrader 4 trading platform is designed for Forex and futures trading. With MetaTrader 4, traders can analyze financial markets, perform advanced trading operations, run trading robots (Expert Advisors) and copy deals of other traders.
+  mt4-p2: The platform supports three trade execution modes, including Instant Execution, as well as 2 market, 4 pending and 2 stop orders and a trailing stop function. Quick trading functions allow sending trading orders straight from the chart with one click. The built-in tick chart feature provides an accurate method for determining entry and exit points. With the rich functionality of MetaTrader 4 you can implement various trading strategies in the Forex market.   
+  mt4-subtitle-download: Download Meta Trader 4 to Enjoy the Broadest Worldwide Trading Opportunities
+  mt4-pc: PC
+  mt4-windows: Windows
+  mt4-mobile: Mobile Devices
+  mt4-ios: iOS
+  mt4-android: Android
+
+partnership:
+  award: Award
+  condition: Condition
+  limitation: Limitation
+  benefits: Benefits
+  institutional-clients: Institutional Clients
+
+  affiliate-partner: Affiliate Partnership
+  affiliate-partner-intro:  We come from traders we understand your need and want. AUXTREK established in 2015 with expert traders. We understand most traders want to a great 24 hours service and tight spread. When you trade you are seek for fast execution time and small slippage, this is want we could do.
+  affiliate-partner-condition: No condition required, award will be applied after clients made the deposit of $500.
+  affiliate-partner-limitation: NO award account limitation.
+  affiliate-partner-benefits: For beginner, easy access
+
+  introducing-broker: Introducing Broker
+  introducing-broker-award:  4 dollars per trade, instant rebate.
+  introducing-broker-condition: 3 active clients or total of 5K Deposit.
+  introducing-broker-limitation: IB will not receive any rebate before meet the condition.
+  introducing-broker-benefits: More income.
+
+  white-label-broker: White Label Partnership
+  white-label-broker-award:  Fin-tech support.
+  white-label-broker-condition: Financial Service license required.
+  white-label-broker-limitation: NO award account limitation.
+  white-label-broker-benefits-1: Access to deep liquidity and market leading spreads from 0.0 pips
+  white-label-broker-benefits-2: Co-branded MT4
+  white-label-broker-benefits-3: Leverage off an established and trusted brand in the market
+  white-label-broker-benefits-4: Customisable client commission structures
+  white-label-broker-benefits-5: Customisable trading conditions for your clients
+
+  money-manager: Money Manager
+  money-manager-award: Fin-tech support.
+  money-manager-condition: Above 500K AUD deposit or our equivalent currency balance.
+  money-manager-limitation: Meet institutional clients request.
+  money-manager-benefits-1: Charge clients based on your preferences and investment philosophy
+  money-manager-benefits-2: Flexibility with withdrawing commissions to improve your cash flow
+  money-manager-benefits-3: Get access to more opportunities across more markets with our large product range
+  money-manager-benefits-4: .
+
+  regional-partnership: Regional Partnership
+  regional-partnership-award-1: Standard rebate
+  regional-partnership-award-2: More than 5K USD monthly marketing support
+  regional-partnership-award-3: Extra 5K monthly promotion bounce *conditions supplied
+  regional-partnership-award-4: Marketing advertisement goods supply.
+  regional-partnership-condition-1: Above 100K USD NET deposit monthly or,
+  regional-partnership-condition-2: More than 10K monthly trading volue, or
+  regional-partnership-condition-3: More than Existing 1000 active clients
+  regional-partnership-limitation: Meet condition and legal requirement
+  regional-partnership-benefits-1: A market leading Raw Pricing offering to attract clients
+  regional-partnership-benefits-2: Hybrid revenue share remuneration model
+  regional-partnership-benefits-3: Proven and reliable trading technology
+  regional-partnership-benefits-4: Staff training in all areas of the business
+  regional-partnership-benefits-5: Leverage off our global brand
+
+  prime-liquidity-partnership: Prime Liquidity Partnership
+  prime-liquidity-partnership-award-1: Free API  
+  prime-liquidity-partnership-award-2: Free technical support
+  prime-liquidity-partnership-award-3: Free monthly fee* condition applied
+  prime-liquidity-partnership-condition: Above 500K USD deposit.
+  prime-liquidity-partnership-limitation: NO award account limitation.
+  prime-liquidity-partnership-benefits: For beginner, easy access  
+
+education:
+  video-academy: Video Academy
+  platform-tutorials: Platform Tutorials
+  ebooks: eBooks
+  signals: Trading Signals
+  economic-calendar: Economic Calendar
+  cryptocurrency-calendar: Cryptocurrency Calendar
+  news: Forex and Crypto Market News
+  articles: Forex and Crypto Technical Analysis Articles
+  indicators: Indicators
+  experts: Expert Advisor
+promotion:
+  refer-a-friend: Refer a friend
+  vps-offer: VPS Offers
+  new-clients-bounce: New Clients Bounce
+  royal-clients-bounce: Royal Clients Bounce
+  welcome-bonus: Welcome Bonus
+footer:
+  auxtrek: Auxtrek goals in to create the better and competitive transparent trading experience for our clients and allowing traders to  more concentrate on the skillful trading. we aim to provide more superior spread, superior speed and professional service to our clients.		
+  disclaimers-p1: Any information or advice contained on this website is general in nature and has been prepared without taking into account your objectives, financial situation or needs. Before acting on any information or advice on this website, you should consider the appropriateness of it (and any relevant product) having regard to your circumstances and strongly recommend you to seek independent financial advice. Please read our Financial Services Guide and current offer document which is available to be downloaded from this website or hard copies may be sent by contacting us on the details provided on this website.	
+
+  disclaimers-p2: All financial products involves risk and you should ensure you understand the risks involved as certain financial products may not be suitable to everyone. Trading in margin foreign exchange and derivatives carries a high level of risk and you may incur a loss that is far greater than the amount you invested. Past performance of any product described on this website is not a reliable indication of future performance.	
+  disclaimers-p3:  Auxtrek does not accept applications from residents of the U.S, Canada, Israel and Islamic Republic of Iran. The information on this site is not directed at residents in any country or jurisdiction where such distribution or use would be contrary to local law or regulation.					

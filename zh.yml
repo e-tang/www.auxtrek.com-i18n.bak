@@ -1,0 +1,219 @@
+langcode: zh-CN
+langs:
+  en: English
+  zh: 监管
+menu:
+  livesupport: 客服服务
+  webtrader: 网上交易
+  start-trade: 开始交易
+  open-demo: 演示帐号
+  contact-us: 联系我们
+  free-demo: 免费帐号
+account:
+  sign-up: 注册
+  practice: 开始练习交易，直到您准备好为止。
+  sign-up-now: 马上注册! 
+  password: 密码
+  confirm-password: 确认密码
+  phone-number: 电话号码
+  first-name: 名
+  last-name: 名
+  email: 电子邮箱   
+pages:
+  introduction: 介绍
+  trading: 交易资料 
+  platform: 交易软件
+  partnership: 合作伙伴
+  education: 交易教育
+  promotion: 活动
+introduction:  
+  about: 关于澳讯
+
+  about-us: 关于我们
+  about-us-p1: 我们来自交易员，我们了解您的需求和需求。 澳讯成立于2015年,是由一群专业交易员成立起来。 我们了解大多数交易者都希望24小时优质的服务和紧密的价差。 当您交易时，您正在寻求快速的执行时间和小的滑点，这是我们希望做到的。
+  about-us-p2: 如果您认真对待交易并寻找经纪商进行交易，请考虑将我们视为您的合作伙伴-我们的团队很乐意为您提供帮助。 我们将始终为客户提供个性化服务。
+  about-us-p3: 我们帮助希望通过以外汇作为资产组合搭配的交易者们进行组合优化。以我们的交易平台使您可以访问最新的市场数据，并且为我们的客户提供全方面的支持。 我们的报价和流动性来自外汇市场中的多个流通性提供者。 为了成为一家成功的公司，我们必须继续改善我们的服务绩效以及交易技术和流动性。
+
+  what-can-we-trade: 我们的交易品种
+  what-can-we-trade-p1: 外汇市场每周为交易者提供24小时5天的服务。交易者可以利用极低的价差，享受高速的执行和极强的流动性强。
+  what-can-we-trade-p2: 通过我们，您可以访问全球产品，例如主要股票指数，原油和金属。
+  what-can-we-trade-p3: 通过使用MT4交易软件，您可以每周24小时.5天时间双向交易加密货币。
+
+  our-liquidity-provider: 我们的流动性提供者
+  our-liquidity-provider-p1: 我们的专长在于构建定制的流动性，这些流动性来自第一层和区域性银行，非银行，ECN和我们自己的专有算法。
+  our-liquidity-provider-p2: 通过访问由两个T1级别组成的Prime Broker服务, 我们连接到来自25多家第一级银行，非银行和ECN流动性提供商（例如Fastmatch，LMAX，Currenex，Gain GTX和Hotspot）的深层机构流动性。
+  
+  safety: 安全性
+  safety-p1: 在澳讯，安全资金是我们的重要核心。 由于我们的公司在全球范围内受到监管，因此根据法规，我们需要遵守严格的规则和义务，为我们的客户提供最高水平的资金安全性。 我们的客户可以放心，因为澳讯符合广泛的资金安全要求。
+
+  regulation: 监管
+  regulation-1: 澳讯圣文森特监管.
+  regulation-1-p1:  .
+  regulation-2: 澳讯马来西亚监管
+  regulation-2-p1:  .
+trading:
+  demo-account: 演示帐号
+  live-account: 真实帐号
+  pricing: 报价
+  swap: 隔夜仓息
+  spreads: 点差
+  indices: 指数
+  stocks: 股票
+  forex: 外汇
+  cryptocurrency: 加密数字货币
+  energies-and-metals: 能源 和 贵金属
+
+  funding: 入金方式
+
+  withdraw: 出金方式
+  withdraw-p1: 为了更快地处理，我们要求所有帐户持有人从其“客户专区”内部提交提款请求。
+  withdraw-form: 出金申请提交
+  withdraw-note: 如果您以前没有提款，请您及时联系在线客服。
+
+  product: 交易产品
+  product-forex: 外汇市场是全球流动性最强的金融市场之一,每周5天，每天24小时可以进行交易,为交易者提供了的机会。 交易者可以利用60个货币对的极小点差，出色的执行力和的银行间流动性创造获利机会。
+  product-e-n-m: 交易能源，农业和金属产品，例如货币对美元或期货差价合约。 严格的定价,灵活的手数与极低的交易成本相结合，为您提供一款功能强大的产品。
+  product-indices: 我们的指数差价合约参与到全球最大的股票市场。 我们提供16个指数，点差低至0.5点。 交易者可以更全面地了解全球股市，同时享受零佣金和24小时跨市场交易。
+  product-stocks: 澳讯在纽约证券交易所和纳斯达克证券交易所访问100多个大型股票差价合约。 精挑细选了一系列全球最受欢迎的公司，为您提供最佳的交易机会。
+  product-cryptocurrency: 加密货币因价格快速波动而闻名。 它们是一种高波动性工具，随着被越来越多的采用而增加价值，并且受到有关政府监管和安全问题的消息的影响。 相对于美元交易加密差价合约（差价合约）的主要好处是，交易者可以从工具的价值下降和上升中获利。
+
+  margin-leverage: 保证金和杠杆
+  currency-pairs: 货币对
+  swap-rates: 掉期利率
+
+  trading-conditions: 交易条件
+  trading-conditions-p1: 我们的点差在市场上处于领先地位，来自25个不同定价源的价格以最快的速度传递，这意味着您将始终以最佳的可用价格进行交易。 在我们的MetaTrader 4平台上，点差可低至0.0点。
+  trading-conditions-p2: 通过提供高达1：400的杠杆率，我们为零售交易者开辟了通往外汇市场的道路。 使用杠杆意味着只需要很小的初始支出（保证金）。 使用杠杆可以放大收益，但损失也可以超过您的初始存款。
+  trading-conditions-p3: 澳讯在所有3个交易平台上以60种不同货币对和4种金属流化价格。 通过整合来自25个以上不同定价来源的报价，澳讯能够提供业内最佳的定价。 低廉的价格加上无与伦比的执行速度，使澳讯成为日间交易者，高频交易者和使用EA交易的交易者们的首选目的地。
+  trading-conditions-p4: 我们提供所有货币对和金属的多头和空头掉期利率。 掉期利率取决于该货币对所涉及的两种货币之间的隔夜利率差异，以及仓位是买入“多头”还是卖出“空头”。
+  trading-conditions-learn-swap: 了解更多关于掉期利率的信息
+  trading-conditions-learn-spreads: 详细了解价差
+  trading-conditions-learn-margin: 了解更多关于保证金和杠杆的细节
+  trading-conditions-learn-pairs: 进一步了解货币对
+
+  funding-p1: 您可以使用多种安全的付款方式立即为您的交易帐户注资。 我们所有的客户资金都存放在世界顶级银行的单独银行帐户中。
+   请从下面的列表中选择一种付款方式为您的交易帐户注资。
+
+  myfxbook-autotrade: Myfxbook自动交易
+  myfxbook-autotrade-p1: 自动化的社会贸易复制服务，允许交易者直接订阅和复制其他交易系统进入全球顶级交易账户。
+  myfxbook-autotrade-p2: Autotrade允许您查看和比较40多种不同的系统及其跟踪记录。 系统是
+   根据风险最低，利润最高与持续增长提供的风险排名最高的公司
+   与其他社交交易平台相比，财务指标和统计数据的选择。
+  myfxbook-autotrade-q1: 是什么使Myfxbook AutoTrade成为复制交易的绝佳工具？
+  myfxbook-autotrade-q1-list1: 严格的筛选系统以及严格的高要求。
+  myfxbook-autotrade-q1-list1-l1: Must trade from a MetaTrader 4 account with real money (No demo accounts).
+  myfxbook-autotrade-q1-list1-l2: 必须使用真实货币从MetaTrader 4账户进行交易（无模拟账户）。
+  myfxbook-autotrade-q1-list1-l3: 最低账户余额为1,000美元。
+  myfxbook-autotrade-q1-list1-l4: Historical drawdown must be less than 50%.
+  myfxbook-autotrade-q1-list1-l5: 历史回撤必须小于50％。
+  myfxbook-autotrade-q1-list1-l6: 每笔交易的平均点子赢额必须至少为10个点子。
+  myfxbook-autotrade-q1-list1-l7: 历史回撤必须小于50％。
+  myfxbook-autotrade-q1-list1-l8: 历史账户收益率必须高于10％且高于最大亏损。
+  myfxbook-autotrade-q1-list1-l9: 不允许使用马丁格尔式加仓模式或网格式交易系统。   
+  myfxbook-autotrade-q1-list2: 系统会提供准确的性能统计数据，并在一定时间内利用大量的计算公式进行分析（最好和
+   最差的交易，平均交易时间，夏普比率，标准差，利润因子等等)。
+  myfxbook-autotrade-q1-list3: 即时从信号提供商处进行镜像交易。
+  myfxbook-autotrade-q1-list4: 无需软件– AutoTrade托管在内部管理的服务器上。
+  myfxbook-autotrade-start-autotrade: 启动Myfxbook AutoTrade
+  myfxbook-autotrade-start-autotrade-l1: 开设一个澳讯真实交易账户
+  myfxbook-autotrade-start-autotrade-l2: 将您的澳讯帐户链接到Myfxbook AutoTrade                 
+  trading-hours: 交易时间
+  trading-hours-p1: 我们很容易知道何时开放交易市场。 一目了然，查看我们广泛的产品所有交易时间。 交易时间也可以在MetaTrader交易终端中查看。
+  trading-hours-learn-more: 了解更多有关的详细信息
+
+platform:
+  mt4: MetaTrader 4
+  mt4-title: MetaTrader 4交易软件
+  mt4-subtitle: 流行的外汇交易软件
+  mt4-p1: MetaTrader 4交易软件专为外汇和期货交易设计而生。 借助MetaTrader 4，交易者可以分析金融市场，执行高级交易操作，运行自动交易脚本（EA）并复制其他交易者的交易。
+  mt4-p2: MetaTrader 4交易软件支持三种交易执行模式，包括即时执行，2个市场，4个挂单和2个止损订单以及追踪止损功能。 快速交易功能允许一键直接从图表发送交易定单。 内置的刻度表功能提供了一种确定入口点和出口点的准确方法。 借助MetaTrader 4的丰富功能，您可以在外汇市场中实施各种交易策略。
+  mt4-subtitle-download: 下载MetaTrader 4交易软件享受最广泛的全球交易机会
+  mt4-pc: 电脑端
+  mt4-windows: Windows版
+  mt4-mobile: 移动终端
+  mt4-ios: 苹果iOS版
+  mt4-android: 安卓Android版
+  
+partnership:
+  award: 活动奖励
+  condition: 条件
+  limitation: 限制
+  benefits: 优势
+  institutional-clients: 机构客户
+
+  affiliate-partner: 推荐人
+  affiliate-partner-intro:  我们来自交易员，我们了解您的需求和需求。 AUXTREK于2015年与专业交易员成立。 我们了解大多数交易者都希望24小时优质的服务和紧密的价差。 当您交易时，您正在寻求快速的执行时间和小的滑点，这是我们希望做到的。
+  affiliate-partner-condition: 无需任何条件，在客户存入$500美金后后将启用奖励计划。
+  affiliate-partner-limitation: 没有任何的奖励限制。
+  affiliate-partner-benefits: 适用于初学者，轻松入门。
+
+  introducing-broker: 介绍经纪商
+  introducing-broker-award: 每笔交易3-15美元，即刻返现。
+  introducing-broker-condition: 3个活跃客户或总计5000美金总存款。
+  introducing-broker-limitation: 在符合条件之前，IB将不会获得任何返利。
+  introducing-broker-benefits: 更多的收入实现财富自由。
+
+  white-label-broker: 白标合作伙伴
+  white-label-broker-award:  金融技术支持。
+  white-label-broker-condition: 需要金融服务许可证。
+  white-label-broker-limitation: 没有奖励帐户限制。
+  white-label-broker-benefits-1: 获得高流动性和市场领先点差从0.0点起。
+  white-label-broker-benefits-2: 独有品牌的 MT4
+  white-label-broker-benefits-3: 利用市场上已建立的值得信赖的品牌。
+  white-label-broker-benefits-4: 可定制的客户佣金结构
+  white-label-broker-benefits-5: 为您的客户定制交易条件。
+
+  money-manager: 资金经理
+  money-manager-award: 金融技术支持。
+  money-manager-condition: 超过50万澳元的存款或我们的等值货币余额。
+  money-manager-limitation: 满足机构客户的要求。
+  money-manager-benefits-1: 根据您的喜好和投资理念向客户收费。
+  money-manager-benefits-2: 灵活的提款手续费可改善您的现金流量。
+  money-manager-benefits-3: 借助我们广泛的产品范围，可以在更多市场上获得更多机会。
+  money-manager-benefits-4: .
+
+  regional-partnership: 区域伙伴关系
+  regional-partnership-award-1: 标准返佣。
+  regional-partnership-award-2: 每月超过5000美元的营销支持。
+  regional-partnership-award-3: 每月额外5K促销活动反弹*提供的条件。
+  regional-partnership-award-4: 每个月额外的市场支持经费。
+  regional-partnership-condition-1: 每月净存款超过10万美元，或
+  regional-partnership-condition-2: 每月交易量超过1万，或者
+  regional-partnership-condition-3: 现有超过1000个活跃客户。
+  regional-partnership-limitation: 符合条件和法律要求
+  regional-partnership-benefits-1: 市场领先的原始定价产品可吸引客户
+  regional-partnership-benefits-2: 混合收入分成薪酬模型
+  regional-partnership-benefits-3: 成熟可靠的交易技术
+  regional-partnership-benefits-4: 完成的员工和商业模式培训
+  regional-partnership-benefits-5: 利用我们的全球品牌
+
+  prime-liquidity-partnership: 优质流动性伙伴关系
+  prime-liquidity-partnership-award-1: 免费API
+  prime-liquidity-partnership-award-2: 免费技术支持
+  prime-liquidity-partnership-award-3: 免费月费*适用条件
+  prime-liquidity-partnership-condition: 超过50万美元以上的总资金量。
+  prime-liquidity-partnership-limitation: 无奖励条件限制。
+  prime-liquidity-partnership-benefits: 对于初学者，轻松访问。 
+
+education:
+  video-academy: 视频学院
+  platform-tutorials: 软件教程
+  ebooks: 电子书
+  signals: 市场发展方向
+  economic-calendar: 经济日历
+  cryptocurrency-calendar: 加密货币日历
+  news: 外汇和数字货币市场新闻
+  articles: 外汇和加密货币技术分析文章
+  indicators: 技术指标
+  experts: EA智能交易系统
+promotion:
+  refer-a-friend: 朋友介绍
+  vps-offer: 免费VPS
+  new-clients-bounce: 新客户奖励
+  royal-clients-bounce: 老客户奖励
+  welcome-bonus: 新客户入金奖励
+footer:
+  auxtrek: 澳讯的目标是为我们的客户创造更好，更具竞争力的透明交易体验，并使交易者更加专注于熟练的交易。 我们旨在为我们的客户提供更出色的传播，更快的速度和专业的服务。		
+  disclaimers-p1: 本网站上包含的任何信息或建议本质上都是一般性的，并且在编写时并未考虑您的目标，财务状况或需求。 在对本网站上的任何信息或建议采取行动之前，您应考虑自己的情况考虑其适当性（以及任何相关产品），并强烈建议您寻求独立的财务建议。 请阅读我们的《金融服务指南》和当前的报价文件，该文件可以从本网站下载，也可以通过联系本网站提供的详细信息来发送纸质版。
+  disclaimers-p2: 所有金融产品均涉及风险，您应确保自己了解所涉及的风险，因为某些金融产品可能并不适合所有人。 保证金外汇和衍生品交易具有很高的风险，您蒙受的损失可能远远超过您投资的金额。 本网站上描述的任何产品的过往性能都不是将来性能的可靠指标。
+  disclaimers-p3:  澳讯不接受美国，加拿大，以色列和伊朗伊斯兰共和国居民的申请。 本网站上的信息并不针对任何分布或使用违反当地法律或法规的国家或地区的居民。
