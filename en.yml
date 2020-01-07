@@ -73,8 +73,8 @@ trading:
   withdraw: Withdraw
   withdraw-p1: For faster processing all account holders are now required to submit withdrawal requests from inside their Secure Client Area.
   withdraw-form: Withdrawal Form
-  withdraw-note: NOTE: If you have not made a withdrawal in the past, please let us know
-
+  withdraw-note: "NOTE: If you have not made a withdrawal in the past, please let us know"
+mn   
   product: Product
   product-forex: The Forex market provides traders the opportunity to trade 24 hours a day, 5 days a week in the world’s most liquid financial market. Traders can take advantage of the tightest spreads, superior execution, and deep interbank liquidity across 60 currency pairs.
   product-e-n-m: Trade energies, agriculture and metals products like a currency pair against the USD or as a Futures CFD. We’ve combined tight pricing and flexible lot sizes from 10c per point to give you one powerful product.
