@@ -2,6 +2,15 @@ langcode: en
 langs:
   en: EN
   zh: 中文
+
+pages:  
+  introduction: Introduction
+  trading: Trading 
+  platform: Platform
+  partnership: Partnership
+  education: Education
+  promotion: Promotion
+
 menu:
   livesupport: Live Support
   webtrader: Webtrader
@@ -20,15 +29,17 @@ account:
   phone-number: Phone Number
   first-name: First Name
   last-name: Last Name
-  email: Email   
+  email: Email
+  country: Country
 
-pages:
-  introduction: Introduction
-  trading: Trading 
-  platform: Platform
-  partnership: Partnership
-  education: Education
-  promotion: Promotion
+call4action:
+  from-zero-pip-1: From 0.0
+  from-zero-pip-2: PIP Spreads 
+  mt4-platform: Platform
+  min-deposit-1: $400
+  min-deposit-2: Minimum Deposit
+  leverage-1: "400:1"
+  leverage-2:  Leverage Options
   
 introduction:  
   about: About Auxtrek
@@ -38,23 +49,28 @@ introduction:
   about-us-p2: If you are serious about trading and looking for a broker to trade through please consider us as your trusted partner - our team would love to help you out. We make ourselves available to our so you are never alone.
   about-us-p3: We assist traders using Forex as an asset class to fulfill part of their trading portfolio. Our trading platform gives you access to the latest market data and we deliver exceptional client support. Our pricing and liquidity is sourced from multiple sources within the Forex markets. To continue to serve our clients at the highest level, we are continually optimising our systems, service, performance, trading technology and liquidity. 
 
-  what-can-we-trade: What can we trade
-  what-can-we-trade-p1: The Forex market is open to traders 24 hours a day, 5 days a week.Traders can take advantage of tight spreads, fast execution and deep liquidity.
-  what-can-we-trade-p2: With our platform, you have access to global products such as the major share indices, crude oil and metals.
-  what-can-we-trade-p3: With our non-stop MT4 Platform, trade Cryptos with double directions 24hour and 5days per week.
+  trade: What Can We Trade
+  trade-p1: The Forex market is open to traders 24 hours a day, 5 days a week.Traders can take advantage of tight spreads, fast execution and deep liquidity.
+  trade-p2: With our platform, you have access to global products such as the major share indices, crude oil and metals.
+  trade-p3: With our non-stop MT4 Platform, trade Cryptos with double directions 24hour and 5days per week.
 
-  our-liquidity-provider: Our Liquidity Provider
-  our-liquidity-provider-p1: Our specialty lies in building customised liquidity, sourced from Tier 1 providers at the apex of the financial food chain, regional banks, non-banks, ECN’s and our own proprietary algorithms.
-  our-liquidity-provider-p2: Access leading-edge Prime Broker services, backed by two Tier-1 Prime Brokers. Connect to vast institutional liquidity sourced from more than 25+ tier 1 banks, non-banks and ECN liquidity providers such as Fastmatch, LMAX, Currenex, Gain GTX, Hotspot. 
+  liquidity-provider: Our Liquidity Provider
+  liquidity-provider-p1: Our specialty lies in building customised liquidity, sourced from Tier 1 providers at the apex of the financial food chain, regional banks, non-banks, ECN’s and our own proprietary algorithms.
+  liquidity-provider-p2: Access leading-edge Prime Broker services, backed by two Tier-1 Prime Brokers. Connect to vast institutional liquidity sourced from more than 25+ tier 1 banks, non-banks and ECN liquidity providers such as Fastmatch, LMAX, Currenex, Gain GTX, Hotspot. 
+  liquidity-provider-p3: ""   
   
   safety: Safety
   safety-p1: At Auxtrek, security of your funds is our main focus. As our company is regulated worldwide, in accordance with various regulations, we uphold strict rules and obligations, offering our clients the highest level of funds security. Our clients can rest assured that their funds are highly secured as Auxtrek complies with wide ranging security of funds requirements.
 
   regulation: Regulation
   regulation-1: Auxtrek St Vincent
-  regulation-1-p1:  .
+  regulation-1-p1:  160LLC2019
   regulation-2: Auxtrek Malaysia
   regulation-2-p1:  .
+  regulation-3: Auxtrek Australia
+  regulation-3-p1:  ”.“
+  regulation-4: Auxtrek Mauritius
+  regulation-4-p1:  ”.“
 
 trading:
   demo-account: Demo Account
@@ -72,9 +88,10 @@ trading:
 
   withdraw: Withdraw
   withdraw-p1: For faster processing all account holders are now required to submit withdrawal requests from inside their Secure Client Area.
+  withdraw-p2: ""
   withdraw-form: Withdrawal Form
   withdraw-note: "NOTE: If you have not made a withdrawal in the past, please let us know"
-mn   
+
   product: Product
   product-forex: The Forex market provides traders the opportunity to trade 24 hours a day, 5 days a week in the world’s most liquid financial market. Traders can take advantage of the tightest spreads, superior execution, and deep interbank liquidity across 60 currency pairs.
   product-e-n-m: Trade energies, agriculture and metals products like a currency pair against the USD or as a Futures CFD. We’ve combined tight pricing and flexible lot sizes from 10c per point to give you one powerful product.
@@ -86,15 +103,15 @@ mn
   currency-pairs: Currency Pairs
   swap-rates: Swap Rates
 
-  trading-conditions: Trading Conditions
-  trading-conditions-p1: Our spreads are market leading with prices streaming from over 25 different sources of pricing at the highest speed, which means you will always be trading on the best available price. Spreads can go as low as 0.0 pips on our MetaTrader 4 platform.
-  trading-conditions-p2: By offering leverage up to 1:500 we open the path to the forex market for Retail traders. Using leverage means only a small initial outlay (margin) is required. The use of leverage can magnify gains but losses can also exceed your initial deposit.
-  trading-conditions-p3: Auxtrek streams prices on 60 different currency pairs and 4 metals on all 3 trading platforms. IC Markets is able to offer some of the best pricing in the industry by aggregating quotes from over 25 different pricing sources. This low pricing combined with unrivalled execution speeds makes IC Markets the favoured destination for day traders, scalpers and those using Expert Advisors (EAs).
-  trading-conditions-p4: We offer long and short swap rates for all of our currency pairs and metals. Swap rates are determined by the overnight interest rate differential between the two currencies involved in the pair and whether the position is a buy ‘long’ or sell ‘short’.
-  trading-conditions-learn-swap: Learn more details for Swap Rates
-  trading-conditions-learn-spreads: Learn more details for Spreads
-  trading-conditions-learn-margin: Learn more details for Margin and Leverage
-  trading-conditions-learn-pairs: Learn more details for Currency Pairs
+  conditions: Trading Conditions
+  conditions-p1: Our spreads are market leading with prices streaming from over 25 different sources of pricing at the highest speed, which means you will always be trading on the best available price. Spreads can go as low as 0.0 pips on our MetaTrader 4 platform.
+  conditions-p2: By offering leverage up to 1:500 we open the path to the forex market for Retail traders. Using leverage means only a small initial outlay (margin) is required. The use of leverage can magnify gains but losses can also exceed your initial deposit.
+  conditions-p3: Auxtrek streams prices on 60 different currency pairs and 4 metals on all 3 trading platforms. IC Markets is able to offer some of the best pricing in the industry by aggregating quotes from over 25 different pricing sources. This low pricing combined with unrivalled execution speeds makes IC Markets the favoured destination for day traders, scalpers and those using Expert Advisors (EAs).
+  conditions-p4: We offer long and short swap rates for all of our currency pairs and metals. Swap rates are determined by the overnight interest rate differential between the two currencies involved in the pair and whether the position is a buy ‘long’ or sell ‘short’.
+  conditions-learn-swap: Learn more details for Swap Rates
+  conditions-learn-spreads: Learn more details for Spreads
+  conditions-learn-margin: Learn more details for Margin and Leverage
+  conditions-learn-pairs: Learn more details for Currency Pairs
 
   funding-p1: You can fund your trading account instantly using a variety of secure payment options. All our client funds are held in separate bank accounts with the world’s top tier banks. Please choose a payment option to fund your trading account from the list below.
 
@@ -128,6 +145,10 @@ platform:
   mt4-subtitle: A popular Forex trading application
   mt4-p1: The MetaTrader 4 trading platform is designed for Forex and futures trading. With MetaTrader 4, traders can analyse financial markets, perform advanced trading operations, run trading robots (Expert Advisors) and copy deals of other traders.
   mt4-p2: The platform supports three trade execution modes, including Instant Execution, as well as 2 market, 4 pending and 2 stop orders and a trailing stop function. Quick trading functions allow sending trading orders straight from the chart with one click. The built-in tick chart feature provides an accurate method for determining entry and exit points. With the rich functionality of MetaTrader 4 you can implement various trading strategies in the Forex market.   
+  mt4-subtitle-2: ""
+  mt4-p-2-1: ""
+  mt4-subtitle-3: ""
+  mt4-p-3-1: ""
   mt4-subtitle-download: Download Meta Trader 4 to Enjoy the Broadest Worldwide Trading Opportunities
   mt4-pc: PC
   mt4-windows: Windows
@@ -135,34 +156,36 @@ platform:
   mt4-ios: iOS
   mt4-android: Android
 
-partnership:
+  account-types: Account Types
+
+partner:
   award: Award
   condition: Condition
   limitation: Limitation
   benefits: Benefits
   institutional-clients: Institutional Clients
 
-  affiliate-partner: Affiliate Partnership
-  affiliate-partner-intro:  As traders ourselves we understand your needs and wants. AUXTREK was established in 2015 with expert traders. We understand most traders want 24 hours service and tight spreads. When you trade you are seeking fast execution time and small slippage, this is want we could do.
-  affiliate-partner-condition: No condition required, award will be applied after clients made the deposit of $500.
-  affiliate-partner-limitation: No award account limitation.
-  affiliate-partner-benefits: For beginner, easy access
+  affiliate: Affiliate Partnership
+  affiliate-intro:  As traders ourselves we understand your needs and wants. AUXTREK was established in 2015 with expert traders. We understand most traders want 24 hours service and tight spreads. When you trade you are seeking fast execution time and small slippage, this is want we could do.
+  affiliate-condition: No condition required, award will be applied after clients made the deposit of $500.
+  affiliate-limitation: No award account limitation.
+  affiliate-benefits: For beginner, easy access
 
-  introducing-broker: Introducing Broker
-  introducing-broker-award:  4 dollars per trade, instant rebate.
-  introducing-broker-condition: 3 active clients or total of 5K Deposit.
-  introducing-broker-limitation: IB will not receive any rebate before they meet the conditions.
-  introducing-broker-benefits: More income.
+  broker: Introducing Broker
+  broker-award:  4 dollars per trade, instant rebate.
+  broker-condition: 3 active clients or total of 5K Deposit.
+  broker-limitation: IB will not receive any rebate before they meet the conditions.
+  broker-benefits: More income.
 
-  white-label-broker: White Label Partnership
-  white-label-broker-award:  Fin-tech support.
-  white-label-broker-condition: Financial Service license required.
-  white-label-broker-limitation: No award account limitation.
-  white-label-broker-benefits-1: Access to deep liquidity and market leading spreads from 0.0 pips
-  white-label-broker-benefits-2: Co-branded MT4
-  white-label-broker-benefits-3: Leverage off an established and trusted brand in the market
-  white-label-broker-benefits-4: Customisable client commission structures
-  white-label-broker-benefits-5: Customisable trading conditions for your clients
+  white-label: White Label Partnership
+  white-label-award:  Fin-tech support.
+  white-label-condition: Financial Service license required.
+  white-label-limitation: No award account limitation.
+  white-label-benefits-1: Access to deep liquidity and market leading spreads from 0.0 pips
+  white-label-benefits-2: Co-branded MT4
+  white-label-benefits-3: Leverage off an established and trusted brand in the market
+  white-label-benefits-4: Customisable client commission structures
+  white-label-benefits-5: Customisable trading conditions for your clients
 
   money-manager: Money Manager
   money-manager-award: Fin-tech support.
@@ -173,28 +196,28 @@ partnership:
   money-manager-benefits-3: Get access to more opportunities across more markets with our large product range
   money-manager-benefits-4: .
 
-  regional-partnership: Regional Partnership
-  regional-partnership-award-1: Standard rebate
-  regional-partnership-award-2: More than 5K USD monthly marketing support
-  regional-partnership-award-3: Extra 5K monthly promotion bounce *conditions apply
-  regional-partnership-award-4: Marketing advertisement goods supply.
-  regional-partnership-condition-1: Above 100K USD NET deposit monthly or,
-  regional-partnership-condition-2: More than 10K monthly trading volue, or
-  regional-partnership-condition-3: More than Existing 1000 active clients
-  regional-partnership-limitation: Meet condition and legal requirement
-  regional-partnership-benefits-1: A market leading Raw Pricing offering to attract clients
-  regional-partnership-benefits-2: Hybrid revenue share remuneration model
-  regional-partnership-benefits-3: Proven and reliable trading technology
-  regional-partnership-benefits-4: Staff training in all areas of the business
-  regional-partnership-benefits-5: Leverage off our global brand
+  regional-partner: Regional Partnership
+  regional-partner-award-1: Standard rebate
+  regional-partner-award-2: More than 5K USD monthly marketing support
+  regional-partner-award-3: Extra 5K monthly promotion bounce *conditions apply
+  regional-partner-award-4: Marketing advertisement goods supply.
+  regional-partner-condition-1: Above 100K USD NET deposit monthly or,
+  regional-partner-condition-2: More than 10K monthly trading volue, or
+  regional-partner-condition-3: More than Existing 1000 active clients
+  regional-partner-limitation: Meet condition and legal requirement
+  regional-partner-benefits-1: A market leading Raw Pricing offering to attract clients
+  regional-partner-benefits-2: Hybrid revenue share remuneration model
+  regional-partner-benefits-3: Proven and reliable trading technology
+  regional-partner-benefits-4: Staff training in all areas of the business
+  regional-partner-benefits-5: Leverage off our global brand
 
-  prime-liquidity-partnership: Prime Liquidity Partnership
-  prime-liquidity-partnership-award-1: Free API  
-  prime-liquidity-partnership-award-2: Free technical support
-  prime-liquidity-partnership-award-3: Free monthly fee* conditions apply
-  prime-liquidity-partnership-condition: Above 500K USD deposit.
-  prime-liquidity-partnership-limitation: NO award account limitation.
-  prime-liquidity-partnership-benefits: For beginner, easy access  
+  prime-partner: Prime Liquidity Partnership
+  prime-partner-award-1: Free API  
+  prime-partner-award-2: Free technical support
+  prime-partner-award-3: Free monthly fee* conditions apply
+  prime-partner-condition: Above 500K USD deposit.
+  prime-partner-limitation: NO award account limitation.
+  prime-partner-benefits: For beginner, easy access  
 
 education:
   video-academy: Video Academy
@@ -214,8 +237,26 @@ promotion:
   royal-clients-bounce: Royal Clients Bounce
   welcome-bonus: Welcome Bonus
 footer:
-  auxtrek: Auxtrek goal is to create a superior, competitive and transparent trading experience for our clients and allowing traders to focu on their skillful trading. We aim to provide more superior spreads, superior speed and professional service to our clients.		
+  auxtrek: Auxtrek goal is to create a superior, competitive and transparent trading experience for our clients and allowing traders to focus on their skillful trading. We aim to provide more superior spreads, superior speed and professional service to our clients.		
   disclaimers-p1: Any information or advice contained on this website is general in nature and has been prepared without taking into account your objectives, financial situation or needs. Before acting on any information or advice on this website, you should consider the appropriateness of it (and any relevant product) having regard to your circumstances and strongly recommend you to seek independent financial advice. Please read our Financial Services Guide and current offer document which is available to be downloaded from this website or hard copies may be sent by contacting us on the details provided on this website.	
 
   disclaimers-p2: All financial products involves risk and you should ensure you understand the risks involved as certain financial products may not be suitable to everyone. Trading in margin foreign exchange and derivatives carries a high level of risk and you may incur a loss that is far greater than the amount you invested. Past performance of any product described on this website is not a reliable indication of future performance.	
-  disclaimers-p3:  Auxtrek does not accept applications from residents of the U.S, Canada, Israel and Islamic Republic of Iran. The information on this site is not directed at residents in any country or jurisdiction where such distribution or use would be contrary to local law or regulation.					
+  disclaimers-p3:  Auxtrek does not accept applications from residents of the U.S, Canada, Israel and Islamic Republic of Iran. The information on this site is not directed at residents in any country or jurisdiction where such distribution or use would be contrary to local law or regulation.
+  disclaimers-p4: ""
+  disclaimers-p5: ""
+  disclaimers-p6: ""
+
+clients: Clients
+products: Products
+spread: Spread
+spreads: Spreads
+swap: Swap
+mt4-download: MT4 Download
+support: Support
+online-chat: Online Chat
+email-inquiry: Email Inquiry
+call-back: Call Back
+teamviewer: Teamviewer
+online-inquiry: Online Inquiry
+
+
